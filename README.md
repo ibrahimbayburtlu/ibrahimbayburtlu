@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **YTÜ Blockchain**
 
-- 🌱 I’m currently learning **Frond-End Developer Skills**
+- 🌱 I’m currently learning **BackEnd Developer Skills**
 
 - 📫 How to reach me **ibrahimbayburtlu5@gmail.com**
 

@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm İbrahim Bayburtlu</h1>
-<h3 align="center">A passionate Web Developer from Turkey</h3>
+<h3 align="center">A passionate Data Science from Turkey</h3>
 
 - 🔭 I’m currently working on **YTÜ Blockchain**
 
-- 🌱 I’m currently learning **BackEnd Developer Skills**
+- 🌱 I’m currently learning **Data Analyst**
 
 - 📫 How to reach me **ibrahimbayburtlu5@gmail.com**
 

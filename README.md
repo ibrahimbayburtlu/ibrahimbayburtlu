@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **YTÜ**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Back-End Development**
 
 - 📫 How to reach me **ibrahimbayburtlu5@gmail.com**
 

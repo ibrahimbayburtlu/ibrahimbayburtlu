@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and Spring**
 
-- 💬 Ask me about **react and Spring**
+- 💬 Ask me about **React & Spring & Algorithm**
 
 - 📫 How to reach me **ibrahimbayburtlu5@gmail.com**
 

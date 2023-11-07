@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ibrahim Bayburtlu</h1>
 <h3 align="center">A passionate Software Engineer from Turkey</h3>
 
-- 🌱 I’m currently learning **React.js and Spring**
+- 🌱 I’m currently learning **Java and  Spring Boot**
 
-- 💬 Ask me about **React.js & Spring & Algorithm**
+- 💬 Ask me about **Spring & Algorithm & Java**
 
 - 📫 How to reach me **ibrahimbayburtlu5@gmail.com**
 
